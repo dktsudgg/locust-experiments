@@ -1,5 +1,6 @@
 * pip install kafka-python
 * pip install python-decouple
+* pip install locust
 * touch .env
 
 ```
